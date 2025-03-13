@@ -32,3 +32,6 @@ box-sizing: border-box;
 #navlogo{
     font-size: 2.8rem;
 }
+nav{
+    width: 100%;
+}
